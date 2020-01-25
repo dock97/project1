@@ -4,7 +4,7 @@
 - git init
 - git status
 - git add
-- git commit[A[D[D[C.[C[B[B
+- git commit
    29  git add . | git commit -m 'started project with readme'
    30  git status
    31  git show
